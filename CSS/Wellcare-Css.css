@@ -1,0 +1,53 @@
+.navbar{
+	padding-left: 500px!important;
+    align:center;
+}
+
+.main-contant1{
+    width: 1155px;
+	margin-top: 50px!important;
+	margin: auto;
+}
+.main-contant2{
+    width: 1155px;
+	margin: auto;
+}
+.main-contant3{
+	width: 1155px;
+	margin: auto;
+}
+.main-contant4{
+	width: 1155px;
+	margin: auto;
+}
+
+.card{
+	margin: auto;
+}
+
+@media screen and (min-width:320px) and (max-width:480px){
+
+    .navbar{
+    	padding-left: 20px;
+    }
+
+	.main-contant1{
+		width: 318px;
+		margin: auto;
+	}
+	.main-contant2{
+		width: 318px;
+		margin: auto;
+	}
+	.main-contant3{
+		width: 318px;
+		margin: auto;
+	}
+	.main-contant4{
+		width: 318px;
+		margin: auto;
+	}
+	.card{
+	    margin-bottom: 20px;
+    }
+}
